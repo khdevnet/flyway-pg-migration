@@ -24,5 +24,5 @@ This guid writed for windows, but Flyway and PogreSql can be work on any OS
 5. run bat file
 
 Documentation:
-Flyway - https://flywaydb.org/documentation/
-PostgreSql - https://www.postgresql.org/docs/9.2/static/app-psql.html
+1. Flyway - https://flywaydb.org/documentation
+2. PostgreSql - https://www.postgresql.org/docs/9.2/static/app-psql.html
